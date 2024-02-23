@@ -101,11 +101,11 @@ The main features of LPC2148 include the following.
 ```
 
 ## OUTPUT  :
-LED ON:
+LED OFF:
 
  ![exp1 led off](https://github.com/ThakshaRishi/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870423/99fdbae5-9c0b-420c-acc6-573918be1898)
 
- LED OFF:
+ LED ON:
  
 ![exp1 led on](https://github.com/ThakshaRishi/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/144870423/f13545f3-5783-4c37-8f92-e9c162624a20)
 
