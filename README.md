@@ -112,9 +112,3 @@ LED ON:
 ## RESULT :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
 
-
- 
- 
- 
-## Result :
-Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
